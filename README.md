@@ -27,6 +27,26 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 
 .salida:
 
+
+
+
+
+
+Diseñar interfaz...
+Etapa 3
+![]()
+
+
+
+
+
+
+
+
+
+
+
+
 - Diseññar interfaz 
 - (crear una clase donde atraves del objeto llamas o trabajar con esos componentes )(set, get)
 
