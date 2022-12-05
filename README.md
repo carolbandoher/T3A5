@@ -26,8 +26,15 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 .mostrar un menú de opciones del cajero automatico
 
 .salida:
-
-~~
+~~~
++-----------------------------------------------------------+
+|   numero de tarjeta:                                      |
+|   pin: 1020                                               |
+|   Nombre:Carol Bando Hernandez                            |
+|   Email: CaritoBandohernandez@gmail.com                   |
+|   Telefono:2215199829                                     |
++-----------------------------------------------------------+
+~~~
 
 
 
