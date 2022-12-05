@@ -55,7 +55,7 @@ Etapa 3
 
 
 - Diseññar interfaz 
-- (crear una clase donde atraves del objeto llamas o trabajar con esos componentes )(set, get)
+https://github.com/carolbandoher/T3A5/blob/main/T3A5.zip
 
 
 
