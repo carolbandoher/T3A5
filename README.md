@@ -54,7 +54,7 @@ Etapa 3
 
 
 
-## 4. Diseñar interfaz 
+## 4. Desarrollo de la solución
 https://github.com/carolbandoher/T3A5/blob/main/T3A5.zip
 
 
