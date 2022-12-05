@@ -39,7 +39,7 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 
 
 
-Diseñar interfaz...
+3. Diseñar interfaz
 Etapa 3
 ![](https://github.com/carolbandoher/T3A5/blob/main/ta25.png)
 
@@ -54,7 +54,7 @@ Etapa 3
 
 
 
-- Diseññar interfaz 
+##4. Diseñar interfaz 
 https://github.com/carolbandoher/T3A5/blob/main/T3A5.zip
 
 
